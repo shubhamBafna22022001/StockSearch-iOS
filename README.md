@@ -22,7 +22,7 @@ StockSearch-iOS is a cutting-edge mobile application developed using **SwiftUI**
 - **Same Backend as Web and Android Apps:** Ensures data consistency and reliable performance across all platforms.
 
 **Source Code:**
-The source code for StockSearch-iOS is not publicly available at this time. However, it can be shared with potential employers upon request. If you're interested in reviewing the code or discussing the project in more detail, please feel free to [contact me](mailto:your.email@example.com).
+The source code for StockSearch-iOS is not publicly available at this time. However, it can be shared with potential employers upon request. If you're interested in reviewing the code or discussing the project in more detail, please feel free to [contact me](mailto:bafnashubham16@gmail.com).
 
 **Getting Started:**
 To get an in-depth look at the StockSearch-iOS app, including code reviews or demonstrations, please reach out directly. I'm happy to provide access and discuss the development process, challenges, and solutions implemented in this project.
