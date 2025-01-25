@@ -1,5 +1,3 @@
----
-
 ### 🍎 StockSearch-iOS
 
 **Description:**  
@@ -29,4 +27,3 @@ The source code for StockSearch-iOS is not publicly available at this time. Howe
 **Getting Started:**
 To get an in-depth look at the StockSearch-iOS app, including code reviews or demonstrations, please reach out directly. I'm happy to provide access and discuss the development process, challenges, and solutions implemented in this project.
 
----
